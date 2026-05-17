@@ -1,4 +1,4 @@
-# Zaman-Pusulası
+# Zaman Pusulası
 **Öğrenciler için YZ destekli akıllı planlama asistanı.**
 
 Derslerini, sınavlarını, ödevlerini, etkinliklerini ve çalışma oturumlarını tek planda topla. Gerçek zamanlı çakışma uyarıları, çıkış saati hatırlatmaları ve YZ destekli plan önerileri al.
