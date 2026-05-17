@@ -1,0 +1,17 @@
+{
+  "/(dashboard)/analytics/page": "/analytics",
+  "/(dashboard)/calendar/page": "/calendar",
+  "/(dashboard)/chat/page": "/chat",
+  "/(dashboard)/dashboard/page": "/dashboard",
+  "/(dashboard)/profile-setup/page": "/profile-setup",
+  "/(dashboard)/settings/page": "/settings",
+  "/(dashboard)/study/page": "/study",
+  "/(dashboard)/tasks/page": "/tasks",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/chat/route": "/api/chat",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/",
+  "/register/page": "/register"
+}
